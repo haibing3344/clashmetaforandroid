@@ -1,0 +1,127 @@
+:root {
+  --bg-color: #f5f7fa;
+  --card-bg: #ffffff;
+  --card-border: #e6e9ed;
+  --text-color: #333333;
+  --text-secondary: #666666;
+  --accent-color: #3498db;
+  --check-color: #4caf50;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+html.dark {
+  --bg-color: #1a1a1a;
+  --card-bg: #2a2a2a;
+  --card-border: #3a3a3a;
+  --text-color: #f0f0f0;
+  --text-secondary: #b0b0b0;
+  --accent-color: #3498db;
+  --check-color: #4caf50;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+}
+
+.plan-container {
+  padding: 2rem 0;
+  background-color: var(--bg-color);
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+.plan-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 0 1rem;
+}
+
+.plan-card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 6px var(--shadow-color);
+  transition: transform 0.3s ease;
+}
+
+.plan-card:hover {
+  transform: translateY(-5px);
+}
+
+.plan-header {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-color);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--card-border);
+  margin-bottom: 1rem;
+}
+
+.plan-price {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1.5rem;
+}
+
+.price-symbol {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.price-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--text-color);
+  margin-right: 0.5rem;
+}
+
+.price-period {
+  font-size: 1rem;
+  color: var(--text-secondary);
+}
+
+.plan-features {
+  flex-grow: 1;
+  margin-bottom: 1.5rem;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.feature-check {
+  color: var(--check-color);
+  font-weight: bold;
+  margin-right: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.feature-text {
+  color: var(--text-color);
+}
+
+.plan-button {
+  display: block;
+  text-align: center;
+  background-color: var(--accent-color);
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.plan-button:hover {
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+  .plan-cards {
+    grid-template-columns: 1fr;
+  }
+}

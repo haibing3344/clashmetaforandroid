@@ -1,0 +1,13 @@
+{
+  "name": "clashmeta-website",
+  "version": "1.0.0",
+  "description": "Clash Meta For Android官网",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.12"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}

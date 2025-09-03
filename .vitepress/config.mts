@@ -36,7 +36,7 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/logo.webp',
+    logo: { src: '/assets/logo.webp', alt: 'Clash Meta For Android Logo' },
     nav: [
       { text: '首页', link: '/' },
       { text: '介绍', link: '/introduction.md' },

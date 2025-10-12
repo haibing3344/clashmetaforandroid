@@ -42,7 +42,7 @@ export default defineConfig({
       { text: '介绍', link: '/introduction.md' },
       { text: '下载', link: '/download.md' },
       { text: '教程', link: '/tutorial.md' },
-      { text: '🎉机场推荐', link: '/feed.md' },
+      { text: '🎉机场推荐', link: 'https://jichangdaohang.com' },
       { text: '常见问题', link: '/faq.md' }
     ],
 

@@ -79,7 +79,7 @@ Clash Meta For Android适用于多种场景：
 要开始使用Clash Meta For Android，请访问[下载页面](/download.md)获取最新版本，并参考[使用教程](/tutorial.md)了解详细的配置和使用方法。
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群

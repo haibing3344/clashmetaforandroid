@@ -45,7 +45,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/cyberguard" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/cyberguard" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -69,7 +69,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/yfy" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/yfy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -94,7 +94,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">优信云</div>
   <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/youxinyun" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/youxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -116,7 +116,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/nanocloud" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/nanocloud" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -140,7 +140,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/pokemon" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/pokemon" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -163,7 +163,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://a.suola.link/xxyun" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/xxyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -186,7 +186,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
   <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://a.suola.link/laobaixing" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/laobaixing" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -207,7 +207,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://a.suola.link/tnt" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/tnt" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -231,7 +231,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">好好云</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/hhy" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/hhy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -257,7 +257,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">渔云</div>
   <div class="pricing-price">¥9.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/fisher" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/fisher" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -282,7 +282,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/llgjc" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/llgjc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -304,7 +304,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">淘气兔</div>
   <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/taoqitu" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/taoqitu" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -335,7 +335,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/shy" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/shy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -359,7 +359,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">疾风云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/jifeng" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/jifeng" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -385,7 +385,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">尔湾云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/erwan" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/erwan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -412,7 +412,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">三番云</div>
   <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/3fan" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/3fan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -440,7 +440,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/taishan" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/taishan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -464,7 +464,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">FlyBit</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/flybit" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/flybit" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -488,7 +488,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">白羊星</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/byx" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/byx" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -513,7 +513,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://a.suola.link/galaxy" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/galaxy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -539,7 +539,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://a.suola.link/feimao" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/feimao" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -562,7 +562,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">青云梯</div>
   <div class="pricing-price">¥96.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://a.suola.link/qyt" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/qyt" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -592,7 +592,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">Jimmm</div>
   <div class="pricing-price">¥14.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/jimmm" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/jimmm" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -619,7 +619,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 <div class="pricing-card">
   <div class="pricing-title">网际快车</div>
   <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://a.suola.link/wjkc" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/wjkc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -642,7 +642,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://a.suola.link/mojie" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/mojie" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -664,7 +664,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
  <div class="pricing-card">
   <div class="pricing-title">良心云</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://a.suola.link/liangxinyun" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/liangxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -688,7 +688,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
  <div class="pricing-card">
   <div class="pricing-title">一分机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://a.suola.link/1fen" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://c.jichangs.com/1fen" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -713,7 +713,7 @@ description: 优质机场服务推荐，提供稳定、高速的节点服务
 
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群

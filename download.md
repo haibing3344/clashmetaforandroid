@@ -55,7 +55,7 @@ Clash Meta for Android提供多种版本，适用于不同架构的设备：
 安装完成后，您需要导入配置文件或添加订阅才能开始使用。请参考[使用教程](/tutorial.md)了解详细的配置和使用方法。
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群

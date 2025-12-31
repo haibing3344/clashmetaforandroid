@@ -17,7 +17,7 @@ hero:
       link: /tutorial.md
     - theme: brand
       text: 🎉机场推荐
-      link: https://jichangdaohang.com
+      link: https://jichang360.com
 
 features:
   - icon: 🚀

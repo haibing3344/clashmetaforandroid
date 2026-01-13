@@ -15,7 +15,7 @@ Clash Meta For Android目前正在积极维护中，您可以在此下载最新�
 | v2.11.16 | arm64 | [下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.16/cmfa-2.11.16-meta-arm64-v8a-release.apk) |
 | v2.11.16 | x86_64 | [下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.16/cmfa-2.11.16-meta-x86_64-release.apk) |
 
-- 网盘备用下载地址 ： [https://wwic.lanzouo.com/b0zk6wg0f](https://wwic.lanzouo.com/b0zk6wg0f)  密码：`aox1`
+- 网盘备用下载地址 ： [http://wwauo.appboz.com/b0zk6wg0f](http://wwauo.appboz.com/b0zk6wg0f)  密码：`aox1`
 
 ## 如何选择合适的版本
 
